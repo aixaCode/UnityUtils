@@ -102,7 +102,7 @@ namespace System.Collections.Generic
 }
 ```
 
-``ObservableLinkedList`1.ObservableLinkedListNode.cs:``
+``ObservableLinkedList1.ObservableLinkedListNode.cs:``
 
 ```C#
 using System;
